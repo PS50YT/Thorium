@@ -4,6 +4,9 @@
 
 # Thorium
 
+[![Thorium Modrinth](https://img.shields.io/badge/Thorium-Modrinth-green?style=for-the-badge&logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8EAqEiKCkEgSo3B1FgaEFBhF16nzwRhqzqaorZuaPilXyVM4mN1KwvBK&s=10)](https://modrinth.com/project/thorium-forge) 
+
+
 **Thorium** is a performance-focused Minecraft optimization mod and a fork of [Rubidium](https://modrinth.com/mod/rubidium), bringing the optimization concepts of Sodium to deliver smoother gameplay and improved rendering performance.
 
 Built with performance in mind, Thorium aims to optimize Minecraft's rendering engine, reduce unnecessary performance overhead, and provide a smoother experience, especially on low-end and mid-range devices.

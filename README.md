@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.jpeg" width="250">
+  <img src="https://cdn.modrinth.com/data/R7Y6yjIm/588efddbe55c758202e3503892fc59b9de98e2a9.jpeg" width="250">
 </p>
 
 # Thorium

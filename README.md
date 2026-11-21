@@ -18,7 +18,3 @@ Built with performance in mind, Thorium aims to optimize Minecraft's rendering e
 
 ### About
 Thorium is an fork of Rubidium making improvements and adding better mod compatibility, aiming to make Minecraft more enjoyable by delivering better performance without compromising the gameplay experience.
-
-## License
-
-[LGPL-3.0 license](https://github.com/Asek3/Rubidium/blob/1.18/dev/LICENSE)
